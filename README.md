@@ -19,7 +19,7 @@ Uma calculadora de terminal desenvolvida em **Java 21**, com estrutura modular, 
 ## 💡 Tecnologias
 
 - [x] **Java 21**
-- [x] IntelliJ IDEA (ou outra IDE Java)
+- [x] IntelliJ IDEA
 - [x] Execução via terminal ou IDE
 
 ---
